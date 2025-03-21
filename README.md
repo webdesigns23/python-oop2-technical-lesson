@@ -1,1 +1,1 @@
-# OOP part 1 technical lesson
+# OOP part 2 technical lesson
